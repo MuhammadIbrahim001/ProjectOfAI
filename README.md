@@ -1,0 +1,2 @@
+# ProjectOfAI
+First GitHub Project
